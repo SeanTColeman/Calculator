@@ -4,8 +4,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: #add735;
-
+  background: linear-gradient(90deg, #00b4db, #11998e, #38ef7d);
   padding: 30px 0;
 }
 
